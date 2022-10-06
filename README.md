@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adit-Kumar-7707
+- 👋 Hi, I’m @Adit-Kumar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a smart project of my level or above
