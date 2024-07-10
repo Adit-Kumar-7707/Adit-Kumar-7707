@@ -33,7 +33,7 @@ If you like what you see, don’t forget to ⭐ star the repos and fork for your
 
 ---
 
-![Adit's GitHub Stats](![Adit-Kumar-7707's Stats](https://github-readme-stats.vercel.app/api?username=Adit-Kumar-7707&theme=tokyonight&show_icons=true&hide_border=true&count_private=true))
+(![Adit-Kumar-7707's Stats](https://github-readme-stats.vercel.app/api?username=Adit-Kumar-7707&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
