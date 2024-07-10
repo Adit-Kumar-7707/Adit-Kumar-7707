@@ -10,13 +10,6 @@ I'm a tech aficionado passionate about the latest gadgets, AI wizardry, and codi
 - **Frameworks:** [List your favorite frameworks here]
 - **Tools:** [List your go-to tools here]
 
-## 🚀 Projects
-### 🌟 [Awesome Project 1](https://github.com/yourusername/awesome-project-1)
-A brief description of this awesome project. Why should people check it out? What makes it cool?
-
-### 🌟 [Cool Project 2](https://github.com/yourusername/cool-project-2)
-A brief description of this cool project. Highlight what’s unique and fun about it!
-
 ## 📫 Let's Connect
 - **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourusername)
 - **Twitter:** [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
