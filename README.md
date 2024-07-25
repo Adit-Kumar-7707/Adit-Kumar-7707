@@ -11,7 +11,7 @@ I'm a tech aficionado passionate about the latest gadgets, AI wizardry, and codi
 - **Tools:** [List your go-to tools here]
 
 ## 📫 Let's Connect
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/aditk7707)
+- **LinkedIn:** [Adit Kumar](https://linkedin.com/in/aditk7707)
 - **Twitter:** [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
 - **Email:** your.email@example.com
 
