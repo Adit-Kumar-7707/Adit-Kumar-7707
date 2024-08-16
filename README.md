@@ -3,17 +3,16 @@
 Welcome to my GitHub crib, where tech magic happens! ✨
 
 ## About Me 😎
-I'm a tech aficionado passionate about the latest gadgets, AI wizardry, and coding up a storm. Whether it's C++, Python, HTML, CSS, or Java, I've got it covered!
+I'm a tech aficionado passionate about the latest gadgets, AI wizardry, and coding up a storm. Whether it's  Python, HTML, CSS, or Java, I've got it covered!
 
 ## 🔧 Tech Stack
-- **Languages:** C++, Python, HTML, CSS, Java
+- **Languages:** Python, HTML, CSS, Java
 - **Frameworks:** [List your favorite frameworks here]
 - **Tools:** [List your go-to tools here]
 
 ## 📫 Let's Connect
 - **LinkedIn:** [Adit Kumar](https://linkedin.com/in/aditk7707)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
-- **Email:** your.email@example.com
+- **Email:** adit.k7707@gmail.com
 
 ## 💡 Fun Fact
 Did you know? The first computer bug was an actual moth stuck in a relay. Debugging is literally removing bugs!
