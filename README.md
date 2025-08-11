@@ -10,7 +10,6 @@ I'm a tech aficionado passionate about the latest gadgets, AI wizardry, and codi
 
 ## 📫 Let's Connect
 - **LinkedIn:** [Adit Kumar](https://linkedin.com/in/aditk7707)
-- **Email:** adit.k7707@gmail.com
 
 ## 💡 Fun Fact
 Did you know? The first computer bug was an actual moth stuck in a relay. Debugging is literally removing bugs!
